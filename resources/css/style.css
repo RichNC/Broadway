@@ -1,0 +1,46 @@
+body {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 18px;
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+.navigation {
+  background-image: url("/Users/Rich/Documents/projects/Week-3/Broadway/resources/images/the-flatiron-building.png");
+}
+
+.designedinnewyork {
+  color: white;
+  background-image: url("/Users/Rich/Documents/projects/Week-3/Broadway/resources/images/the-flatiron-building.png");
+}
+
+.copyright {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  background-image: url("/Users/Rich/Documents/projects/Week-3/Broadway/resources/images/the-flatiron-building.png");
+}
