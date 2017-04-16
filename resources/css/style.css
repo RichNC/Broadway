@@ -28,6 +28,11 @@ p {
   font-size: 14px;
 }
 
+.navlinks {
+  font-size: 18px;
+  color: white;
+}
+
 .navigation {
   background-image: url("/Users/Rich/Documents/projects/Week-3/Broadway/resources/images/the-flatiron-building.png");
 }
@@ -42,5 +47,5 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
-  background-image: url("/Users/Rich/Documents/projects/Week-3/Broadway/resources/images/the-flatiron-building.png");
+
 }
